@@ -10,4 +10,8 @@
     return NULL;
 }
 
+- (NSString*)get_string_pointer_with_error:(NSError* _Nullable* _Nullable)error {
+    return NULL;
+}
+
 @end
